@@ -1,4 +1,5 @@
-steamcmd.exe
+*.exe
 steamcmd/
 tmp/
 css/
+releases/
