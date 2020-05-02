@@ -2,7 +2,7 @@ function Show-Menu
 {
 	param (
 		[string]$Title = "Menu",
-		[string]$Option1 = "Option1",
+		[string]$Option1 = "Option1"
 	)
 	Clear-Host
 	Write-Host "============= $Title =============" 
